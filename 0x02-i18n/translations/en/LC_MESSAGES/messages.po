@@ -1,8 +1,6 @@
-# English translations for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+
+
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
@@ -25,4 +23,7 @@ msgstr "Welcome to Holberton"
 #: 3-app.py:36
 msgid "home_header"
 msgstr "Hello world!"
+
+msgid "current_time_is"
+msgstr "The current time is %(current_time)s."
 
